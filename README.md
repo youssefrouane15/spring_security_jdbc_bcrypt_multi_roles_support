@@ -1,0 +1,1 @@
+# spring_security_jdbc_bcrypt_multi_roles_support
